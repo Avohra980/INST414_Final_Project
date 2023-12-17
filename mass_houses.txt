@@ -1,0 +1,3 @@
+Here is the Link to the CSV file we used.
+
+RentSmart: https://data.boston.gov/dataset/f506e000-b08c-4500-97c7-9f36e7ac125a/resource/bfe73b72-1d81-42e6-a2e7-7cf0b9ccea1e/download/2000-to-2019.csv
